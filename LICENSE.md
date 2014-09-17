@@ -1,25 +1,13 @@
-# FAQ
+    DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+    Version 2, December 2004
 
----
+Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
 
-**Q:** What is it?
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
 
-**A:** Configuration files for various games I'm playing.
+    DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
----
-
-**Q:** What am I doing here?
-
-**A:** No idea.
-
----
-
-**Q:** Why did you share it?
-
-**A:** I like staging changes in any my scripts.
-
----
-
-**Q:** Can I....?
-
-**A:** Undoubtedly.
+0) You just DO WHAT THE FUCK YOU WANT TO.
