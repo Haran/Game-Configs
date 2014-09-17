@@ -1,6 +1,5 @@
 # FAQ
 
----
 
 **Q:** What is it?
 
@@ -17,6 +16,12 @@
 **Q:** Why did you share it?
 
 **A:** I like staging changes in any my scripts.
+
+---
+
+**Q:** Anything useful?
+
+**A:** Notepad++ folder has XML for game cfg's highlighting
 
 ---
 
